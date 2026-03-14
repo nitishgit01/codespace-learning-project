@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://nitishgit01github.io/codespace-learning-project",
+  "homepage": "https://nitishgit01.github.io/codespace-learning-project",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
